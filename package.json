@@ -1,5 +1,16 @@
 {
   "dependencies": {
-    "express": "^5.1.0"
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.16.4",
+    "prettier": "^3.6.2"
+  },
+  "scripts": {
+    "format": "npx prettier --write .",
+    "dev": "npm run dev"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.15"
   }
 }
