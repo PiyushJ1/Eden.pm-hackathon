@@ -1,4 +1,5 @@
 # ignore node js modules
 node_modules/
 
+# ignore environment variables
 .env
