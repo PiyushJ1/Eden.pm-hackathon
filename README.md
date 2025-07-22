@@ -5,7 +5,7 @@
 Goal: log a focus session
 
 - Build a post api endpoint with node js and express
-- Simulate a meda task using ffmpeg like compressing a file or extracting audio
+- Simulate a media task using ffmpeg like compressing a file or extracting audio
 - Store everything in mongodb
 - Api endpoint should accept session data, userid, start time, end time, media file path
 - When api is called simulate a media processing step
